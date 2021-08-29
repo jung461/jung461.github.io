@@ -17,13 +17,13 @@
  			<key>metadata</key>
  			<dict>
  				<key>bundle-identifier</key>
- 				<string>com.yonhapnews.ynaMobileOTP</string>
+ 				<string>com.yonhapnews.ynaMobileNewsRoom</string>
  				<key>bundle-version</key>
- 				<string>1.0.13</string>
+ 				<string>2.3.8</string>
  				<key>kind</key>
  				<string>software</string>
  				<key>title</key>
- 				<string>YNAMobileOTP</string>
+ 				<string>YNAMNR</string>
  			</dict>
  		</dict>
  	</array>
