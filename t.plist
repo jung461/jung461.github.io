@@ -11,19 +11,19 @@
  					<key>kind</key>
  					<string>software-package</string>
  					<key>url</key>
- 					<string>https://jung461.github.io/YNAMNR.ipa</string>
+ 					<string>https://jung461.github.io/YNAMobileOTP.ipa</string>
  				</dict>
  			</array>
  			<key>metadata</key>
  			<dict>
  				<key>bundle-identifier</key>
- 				<string>com.yonhapnews.ynaMobileNewsRoom</string>
+ 				<string>com.yonhapnews.ynaMobileOTP</string>
  				<key>bundle-version</key>
- 				<string>2.3.8</string>
+ 				<string>1.0.13</string>
  				<key>kind</key>
  				<string>software</string>
  				<key>title</key>
- 				<string>YNAMNR</string>
+ 				<string>YNAMobileOTP</string>
  			</dict>
  		</dict>
  	</array>
